@@ -41,3 +41,5 @@ r2_score(y_test, y_pred)
 [Dataset](https://github.com/NBadrinath/Bike_sharing_regression/blob/main/Bike%20sharing%20Data.csv)
 
 [Data Dictionary](https://github.com/NBadrinath/Bike_sharing_regression/blob/main/Data%20Dictionary.pdf)
+
+(done as a project in data science course from upgrad)
